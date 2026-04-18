@@ -1,10 +1,10 @@
 
 
-1. Windows:
+1. **Windows:**
  [Installing Windows 10](https://www.youtube.com/watch?v=rAdL8psEaWs&t=6s)
 
 
-2. Linux:
+2. **Linux:**
  [Installing Linux](https://www.youtube.com/watch?v=94B2pVP0484&t=8s)
 
 **Linux** has many **different versions** of their **operating system** called **distributions**?
@@ -21,7 +21,7 @@ It has to be copied in a way that makes a **USB device bootable from our bios**.
 
 To load the image onto your USB device and **make it bootable**, you can **use** a **tool** like **etcher.io**.
 
-3. ChromeOS:
+3. **ChromeOS:**
 
 Unlike other operating systems, **ChromeOS** has one main purpose to be a secure and simple way for the user to interact with the web.
 
@@ -51,14 +51,18 @@ When you log into a ChromeOS machine, you're also signing into the Chrome browse
 
 #### Characteristics of ChromeOS:
 
-1. **ChromeOS machines are interchangeable because most data is stored in the Cloud, not locally**.
+   1. **ChromeOS machines are interchangeable because most data is stored in the Cloud, not locally**.
+     
+   2. it's **extremely simple to use and very hard for users to meddle with**.
+     
+     Since **users don't have administrator rights on their ChromeOS machines, they won't be able to alter the system configuration.**
+     
+   3. **ChromeOS has an automatic update mechanism that includes a fail-safe in case anything goes wrong.**
+     
+     This means that the user doesn't need to worry about problems or hacks in the system because it's designed to stay up and running.
+     
+   **Finally,** ChromeOS has strong security.
 
-2. it's **extremely simple to use and very hard for users to meddle with**.
+4 . **Mac OS**
 
-Since **users don't have administrator rights on their ChromeOS machines, they won't be able to alter the system configuration.**
-
-3. **ChromeOS has an automatic update mechanism that includes a fail-safe in case anything goes wrong.**
-
-This means that the user doesn't need to worry about problems or hacks in the system because it's designed to stay up and running.
-
-**Finally,** ChromeOS has strong security.
+[Mac OS](https://www.youtube.com/watch?v=yJDIGezc7HQ&t=7s)
