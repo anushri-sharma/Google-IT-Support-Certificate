@@ -1,4 +1,6 @@
 
+<img width="788" height="430" alt="image" src="https://github.com/user-attachments/assets/b588f2de-160e-4920-afa3-6ad573ccab89" />
+
 
 🔥 **Data size fundamentals: bit → byte → kilobyte**
   – **Bit**: smallest unit, stores a single binary value (**0** or **1**).  
