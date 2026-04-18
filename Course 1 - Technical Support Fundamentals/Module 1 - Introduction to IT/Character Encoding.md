@@ -71,3 +71,45 @@
   – Single-byte encodings can represent simple English text (ASCII) but not global scripts or emojis.  
   – UTF‑8 preserves single-byte efficiency for ASCII while enabling multi-byte sequences for the wider Unicode set.  
   – The same underlying binary principle (bits and bytes) is used to represent both text and color on screens.
+
+<img width="1280" height="414" alt="image" src="https://github.com/user-attachments/assets/114fb59b-0e4d-42df-9301-816d72045826" />
+
+
+# How to Count in Binary
+
+<img width="821" height="280" alt="image" src="https://github.com/user-attachments/assets/cf259a5a-6496-4b6a-b836-649636975333" />
+
+<img width="1278" height="557" alt="image" src="https://github.com/user-attachments/assets/e547a5dc-52c5-461b-8d8a-1a5a3c20848b" />
+
+🔥 **Why binary matters in computing**  
+  – Binary is the fundamental representation used by computers across text, images, networking, security, and other computing domains.  
+  – Computers use sequences of **bits** (0 and 1) to encode all data and instructions.
+
+💡 **Human counting (decimal) vs computer counting (binary)**  
+  – Humans commonly use the **decimal (base ten)** system with ten symbols **0–9** (origin: ten fingers).  
+  – Computers use the **binary (base two)** system with two symbols **0** and **1**.
+
+🔢 **Binary is positional; each digit is a power of two**  
+  – Rightmost bit = **2^0 = 1**, next = **2^1 = 2**, then **4, 8, 16, 32, 64, 128**, etc.  
+  – Each column’s value is double the column to its right; a **1** in a column adds that column’s power-of-two value, a **0** adds nothing.
+
+🧮 **Converting binary to decimal (method and example)**  
+  – To convert, add the power-of-two values where the binary digit is **1**.  
+  – Example: binary **00001010** has 1s in the **2** and **8** positions → **2 + 8 = 10** (decimal).
+
+📦 **Bytes, range, and why the maximum is 255**  
+  – A **byte = 8 bits**. The eight positional values are **128, 64, 32, 16, 8, 4, 2, 1**.  
+  – If all eight bits are 1, the sum is **255**; counting includes **0**, so an 8-bit byte can represent **256** distinct values (**0–255**).
+
+🔍 **Practical example with ASCII (letter 'h')**  
+  – ASCII binary for **'h'** is **01101000**.  
+  – Decimal ASCII value for **'h'** is **104**.  
+  – Convert: **64 + 32 + 8 = 104**, matching the binary pattern **01101000**.
+
+✍️ **Tools and habits for working with binary**  
+  – Useful tools: **pen and paper**, a **calculator**, and logical step-by-step checking.  
+  – Habit: mark which positional values are active (1) and sum them to verify conversions.
+
+🔎 **Key implications for IT roles**  
+  – Understanding binary conversions is essential for tasks in **networking**, **security**, and general IT support.  
+  – Knowing bit/byte limits and conversions helps interpret addresses, encodings, and low-level data representations.
