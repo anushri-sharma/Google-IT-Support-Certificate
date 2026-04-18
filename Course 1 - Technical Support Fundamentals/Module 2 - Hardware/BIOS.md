@@ -1,4 +1,4 @@
-<img width="1277" height="327" alt="image" src="https://github.com/user-attachments/assets/ec3d5a9f-1ae6-4b71-9f5f-7c41e7555e41" />[BIOS](https://www.youtube.com/watch?v=W36kZakFm_Q)
+[BIOS](https://www.youtube.com/watch?v=W36kZakFm_Q)
 
 🔥 **How external devices reach the CPU: drivers/services**  
   – **Devices (keyboard, mouse, webcam, printers)** send raw data that the CPU cannot interpret alone (for example, a keypress is just a byte).  
