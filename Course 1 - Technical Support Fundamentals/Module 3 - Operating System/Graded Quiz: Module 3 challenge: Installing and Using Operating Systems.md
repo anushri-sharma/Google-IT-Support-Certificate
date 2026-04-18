@@ -24,6 +24,9 @@ create_folder → Not a valid Linux command.
 <img width="898" height="494" alt="image" src="https://github.com/user-attachments/assets/8924d695-a13f-420e-a377-f7800957261d" />
 
 
+
+<img width="899" height="630" alt="image" src="https://github.com/user-attachments/assets/0b83ee63-ff26-4b90-830d-b2f6ab46f5a0" />
+
 ```
 Linux is an open-source operating system kernel that is packaged into many different distributions (distros) by various organizations, such as Ubuntu, Fedora, Debian, and others.
 
@@ -43,8 +46,6 @@ Why the others are incorrect:
 ❌ Windows → Developed and distributed by Microsoft
 So, only Linux is widely packaged and distributed by multiple organizations.
 ```
-
-<img width="899" height="630" alt="image" src="https://github.com/user-attachments/assets/0b83ee63-ff26-4b90-830d-b2f6ab46f5a0" />
 
 
 <img width="889" height="619" alt="image" src="https://github.com/user-attachments/assets/0a95ecf6-dae4-4ac5-999e-7b0d5ebcb744" />
