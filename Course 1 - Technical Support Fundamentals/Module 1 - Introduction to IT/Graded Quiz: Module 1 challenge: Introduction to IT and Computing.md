@@ -77,8 +77,6 @@ Add the values where there is 1:
 128 + 32 + 16 + 8 + 1 = 185
 ```
 
-<img width="612" height="520" alt="image" src="https://github.com/user-attachments/assets/132780e1-19bc-4b5c-b57d-004ee921f3fd" />
-
 ```
 Binary 00000000 means all bits are 0.
 So:
