@@ -1,4 +1,4 @@
-<img width="1277" height="338" alt="image" src="https://github.com/user-attachments/assets/cff660c1-ee5c-4e9e-9f88-f1caaf1bb7c8" />[The Boot Process](https://www.youtube.com/watch?v=YwcZi8Wy7yo)
+[The Boot Process](https://www.youtube.com/watch?v=YwcZi8Wy7yo)
 
 
 It's important to know the steps and operating system takes, so you can help diagnose the issue.
@@ -27,7 +27,7 @@ The post performs a series of diagnostic tests to make sure that the computer is
 
 Next, depending on the bios or UEFI configuration of boot device will be selected.
 
-![Uploading image.png…]()
+<img width="1277" height="338" alt="image" src="https://github.com/user-attachments/assets/cff660c1-ee5c-4e9e-9f88-f1caaf1bb7c8" />
 
 Devices that are attached to our system, like hard drives, USB drives, CD drives, etc, are configured in a certain boot order.
 
