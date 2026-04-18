@@ -72,9 +72,9 @@ while still being compatible with ASCII for basic text.
 
 🔹 1. What Binary Is
 
-The video explains that computers don’t understand decimal numbers (0–9).
+Computers don’t understand decimal numbers (0–9).
 
-Instead, they use binary (base-2 system):
+Instead, they use **binary (base-2 system)**:
 
 Only two digits: 0 and 1
 
@@ -136,9 +136,9 @@ Then fill the table:
 
 00101101
 
-🔹 5. What is a Byte
+🔹 5.**What is a Byte**
 
-A byte = 8 bits
+**A byte = 8 bits**
 
 This is a standard unit in computing
 
@@ -148,47 +148,28 @@ Minimum: 00000000 → 0
 
 Maximum: 11111111 → 255
 
-So:
-
-Total values = 256 (0–255)
+So: Total values = 256 (0–255)
 
 🔹 6. Why Binary Matters
 
-The video explains:
-
 Computers use electrical signals:
 
-ON → 1
+**ON → 1**
 
-OFF → 0
+**OFF → 0**
 
 Binary is simple and reliable for hardware
 
 🔹 7. Character Encoding (ASCII → UTF-8)
 
-Older systems used ASCII (limited to 128 characters)
+**Older systems used ASCII** (limited to 128 characters)
 
-Modern systems use UTF-8
-
+**Modern systems use UTF-8**
 Supports multiple languages and emojis
 
 Uses more than one byte when needed
 
-🔹 8. Practice & Application
 
-The video includes:
-
-Practice problems
-
-Step-by-step solving
-
-Reinforcement of:
-
-Binary conversions
-
-Byte limits
-
-Real-world usage
 
 ✅ Key Takeaways
 
@@ -204,6 +185,6 @@ Binary is the foundation of all computing systems
 
 📌 Simple One-Line Summary
 
-👉 The video teaches how computers use binary (0s and 1s) to represent data and shows how to convert between binary and decimal using powers of 2.
+👉 teaches how computers use binary (0s and 1s) to represent data and shows how to convert between binary and decimal using powers of 2.
 
 
