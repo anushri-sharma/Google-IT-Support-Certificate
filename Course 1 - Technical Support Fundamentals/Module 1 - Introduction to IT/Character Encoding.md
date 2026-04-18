@@ -113,3 +113,5 @@
 🔎 **Key implications for IT roles**  
   – Understanding binary conversions is essential for tasks in **networking**, **security**, and general IT support.  
   – Knowing bit/byte limits and conversions helps interpret addresses, encodings, and low-level data representations.
+
+<img width="1279" height="369" alt="image" src="https://github.com/user-attachments/assets/743a2ee8-fa6b-42aa-806c-7725bf189ba0" />
