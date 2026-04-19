@@ -51,3 +51,31 @@
 <img width="1273" height="362" alt="image" src="https://github.com/user-attachments/assets/06b73182-2987-426d-9843-c545d9220575" />
 
 ## [Installing, Updating, and Removing Software on Linux](https://www.youtube.com/watch?v=M-SZnXvO5_I&t=5s)
+
+
+1. navigate back to the Git download page.
+2. Under the Linux page, you'll actually see many different ways to install Git, this is because the different Linux distributions use different package installers.
+
+Since we're using **Ubuntu**, we're just going to use this command **apt install Git**
+
+**APT** - the command we use in Ubuntu's **package manager,** and the install option will let us install something.
+
+We're getting an error that says **permission denied.**
+
+we need to tell the computer that were **authorized** to install software.
+
+Right now, we can preface this command with another Linux command **sudo, which stands for super user do.**
+
+
+```
+# install package
+
+sudo apt install git
+
+```
+
+```
+# Remove Package
+
+sudo apt remove git
+```
