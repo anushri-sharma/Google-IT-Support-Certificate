@@ -1,4 +1,6 @@
-<img width="1277" height="448" alt="image" src="https://github.com/user-attachments/assets/27947945-0592-43be-8ed7-33517f7d4e17" />[How software is built: Coding, scripting, and programming](https://www.youtube.com/watch?v=PajDPuh31KM&t=149s)
+# Softwares
+
+[How software is built: Coding, scripting, and programming](https://www.youtube.com/watch?v=PajDPuh31KM&t=149s)
 
 <img width="1273" height="365" alt="image" src="https://github.com/user-attachments/assets/98c79697-f9d2-4096-b797-73a95b0d47d1" />\
 
