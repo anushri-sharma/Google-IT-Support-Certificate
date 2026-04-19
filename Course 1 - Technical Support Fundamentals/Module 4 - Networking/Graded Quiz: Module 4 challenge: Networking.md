@@ -11,6 +11,7 @@ IP Address: A logical address assigned to a device so it can be located on a spe
 ```
 
 <img width="806" height="449" alt="image" src="https://github.com/user-attachments/assets/afa20c62-732b-41c8-9be7-ec5618fbd6dc" />
+
 ```
 The following are physical networking devices:
 
@@ -29,6 +30,7 @@ Routers
 <img width="825" height="373" alt="image" src="https://github.com/user-attachments/assets/9eefdfe0-eff4-418a-860c-9a59aeb37afa" />
 
 <img width="836" height="359" alt="image" src="https://github.com/user-attachments/assets/ec50ea50-c2fe-49cc-bc40-7ea441d8aa30" />
+
 ```
 The biggest problem in the late 1960s was: Networks couldn't talk to each other.
 
