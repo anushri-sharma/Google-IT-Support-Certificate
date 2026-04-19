@@ -1,27 +1,44 @@
 
 Application soware: Any soware created to fulll a specic need, like a text editor, web browser, or
 graphics editor
+
 Assembly language: A language that allowed computer scientists to use human readable
 instructions, assembled into code that the machines could understand
+
 Automation: It makes processes work automatically
+
 Coding: Translating one language to another
+
 Compiled programming language: A language that uses human readable instructions, then sends
 them through a compiler
+
 Copyright: Used when creating original work
+
 .exe: A le extension found in Windows for an executable le
+
 Firmware: Soware that's permanently stored on a computer component
+
 GIT: A version control system that helps keep track of changes made to les and directories
+
 Interpreted programming language: A language that isn't compiled ahead of time
+
 Programming: Coding in a programming language
+
 Programming language: Special languages that soware developers use to write instructions for
 computers to execute
+
 Script: It is run by an interpreter, which interprets the code into CPU instructions just in time to run
 them
+
 Scripting: Coding in a scripting language
-Soware: The intangible instructions that tell the hardware what to do
-Soware bug: An error in soware that causes unexpected results
-Soware management: A broad term used to refer to any and all kinds of soware that are designed
+
+Software: The intangible instructions that tell the hardware what to do
+
+Software bug: An error in soware that causes unexpected results
+
+Software management: A broad term used to refer to any and all kinds of soware that are designed
 to manage or help manage some sort of project or task
-System soware: Soware used to keep our core system running, like operating system tools and
+
+System software: Software used to keep our core system running, like operating system tools and
 utilities
 Terms and their denitions from previous modules
