@@ -1,6 +1,6 @@
 
 
-[Managing Software](https://www.youtube.com/watch?v=0XujKRnaNmU&t=134s)
+## [Managing Software](https://www.youtube.com/watch?v=0XujKRnaNmU&t=134s)
 
 🔥 **Terminology: software = programs = applications**  
   – **Drivers**: software that enables interaction with hardware.  
