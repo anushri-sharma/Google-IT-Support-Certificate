@@ -40,3 +40,12 @@
   – **Installing** software.  
   – **Updating** software.  
   – **Removing** software.
+
+# Git
+
+[Installing, Updating, and Removing Software on Windows](https://www.youtube.com/watch?v=rWqVqw-4Zfg&t=169s)
+
+<img width="1271" height="355" alt="image" src="https://github.com/user-attachments/assets/c9a8c7fc-9aff-4c03-95d4-a1c50b5f183f" />
+
+
+<img width="1273" height="362" alt="image" src="https://github.com/user-attachments/assets/06b73182-2987-426d-9843-c545d9220575" />
