@@ -1,6 +1,6 @@
 
 
-<img width="1274" height="697" alt="image" src="https://github.com/user-attachments/assets/8ccd4a1a-e67b-4aef-a501-550db7234a8a" />[Recipe for Computing](https://www.youtube.com/watch?v=P7DxcDoWc_c&t=1s)
+[Recipe for Computing](https://www.youtube.com/watch?v=P7DxcDoWc_c&t=1s)
 
 <img width="1277" height="396" alt="image" src="https://github.com/user-attachments/assets/b2bee740-2f92-474f-9d5f-d7ba797895b5" />
 
