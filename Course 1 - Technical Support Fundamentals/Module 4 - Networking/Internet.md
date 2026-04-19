@@ -1,8 +1,9 @@
 
-[History of Internet](https://www.youtube.com/watch?v=4kkzoSRPaoo&t=4s)
+1. [History of Internet](https://www.youtube.com/watch?v=4kkzoSRPaoo&t=4s)
 
-[Limitations of the Internet](https://www.youtube.com/watch?v=R5aUp2KzG78&t=197s)
+2. [Limitations of the Internet](https://www.youtube.com/watch?v=R5aUp2KzG78&t=197s)
 
+3. [Impact](https://www.youtube.com/watch?v=IcBHr6W_F5o&t=4s)
 
 🔥 **IPv4 (Internet Protocol version 4): 32‑bit addresses, dotted‑decimal form**  
   - **Format:** 32 bits separated into four groups (dotted decimal).  
@@ -38,3 +39,7 @@ IPv6:
 📈 **Adoption dynamics and coexistence**  
   - **Status:** **IPv6 adoption is slow but steady.**  
   - **Expectation:** IPv6 addresses will become increasingly common over time; until then, IPv4 + NAT and mixed deployments will persist.
+
+## 3. Impact
+
+<img width="1278" height="445" alt="image" src="https://github.com/user-attachments/assets/8861cd6e-9c44-458a-a82c-465d19b8761b" />
