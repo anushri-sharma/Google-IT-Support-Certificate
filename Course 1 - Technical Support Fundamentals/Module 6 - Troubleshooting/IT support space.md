@@ -47,3 +47,15 @@
 ### How do you make a good final impression?
 
 **Simple, reiterate the resolution, state the next steps, then ask the user if they have any questions.**
+
+<img width="1276" height="342" alt="image" src="https://github.com/user-attachments/assets/c661a404-89c0-48f6-966a-08080a474d39" />
+
+
+You started your chat with the user and it's really pleasant and problem-solving is happening, then suddenly the tone turns dark.
+
+<img width="1276" height="658" alt="image" src="https://github.com/user-attachments/assets/8c3fbba9-037e-47ec-a168-0781e6c480a5" />
+
+If the user didn't understand the question, then they probably got frustrated when the same question was asked over and over.
+reframe the question and broken it down further.
+
+<img width="1272" height="661" alt="image" src="https://github.com/user-attachments/assets/673b14fb-ab27-47df-a000-ed5e9806fc5f" />
