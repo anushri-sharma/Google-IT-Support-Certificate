@@ -1,0 +1,67 @@
+
+
+[Routers](https://www.youtube.com/watch?v=eboMEWEuI7M&t=7s)
+
+
+**Hubs and switches** are the primary devices used to connect computers on a single network, usually referred to as a LAN or local area network.
+
+But we often want to **send or receive** data to computers on other networks.
+
+This is where routers come into play.
+
+A **router** is a device that knows how to forward data between independent networks, while a hub is a Layer 1 device, and a switch is a Layer 2 device.
+
+<img width="1274" height="386" alt="image" src="https://github.com/user-attachments/assets/ec05907d-345c-44d0-a743-83b23c88e0d9" />
+
+
+A router operates at **Layer 3, a network layer**.
+
+<img width="1275" height="599" alt="image" src="https://github.com/user-attachments/assets/571e016b-2e16-48fc-85f6-8bfc8fae5ec4" />
+
+
+Just like a switch can inspect **Ethernet** data to determine where to send things, a router can inspect 
+IP data to determine where to send things.
+
+<img width="1273" height="646" alt="image" src="https://github.com/user-attachments/assets/de3ad189-07f4-494b-9974-c5a2bee2fe50" />
+
+
+Routers store internal tables containing information about how to route traffic between lots of different 
+networks all over the world.
+
+The most common type of router you'll see is one for a home network or a small office.
+
+These devices generally don't have very detailed routing tables.
+
+The **purpose** of these **routers** is mainly just **to take traffic originating from inside the
+home or office land and to forward it along to** the **ISP or Internet service provider**.
+
+<img width="1260" height="611" alt="image" src="https://github.com/user-attachments/assets/e375daf7-5d20-46fb-927e-3d16f2932a12" />
+
+
+Once traffic is at the ISP, a way more sophisticated type of router takes over.
+
+These core routers form the backbone of the Internet and are directly responsible for how we send and receive data all over the Internet every single day.
+
+Core ISP routers don't just handle a lot more traffic than a home or small office router.
+
+They also have to deal with much more complexity in making decisions about where to send traffic.
+
+A core router usually has many different connections to many other routers.
+
+<img width="1270" height="622" alt="image" src="https://github.com/user-attachments/assets/badafde5-ec6a-46cd-833e-23c94f68dcd8" />
+
+
+**Routers share data with each other via a protocol** known as **BGP or border gateway protocol** **that lets 
+them learn about the most optimal paths to forward traffic.**
+
+<img width="1268" height="486" alt="image" src="https://github.com/user-attachments/assets/2b26c0f1-9d9a-4917-b2c4-8682099012f0" />
+
+
+
+When you open a web browser and load a webpage, the traffic between computers and the web servers 
+could have traveled over dozens of different routers.
+
+The Internet is incredibly large and complicated, and routers are global guides for getting traffic to the right places.
+
+
+
