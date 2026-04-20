@@ -44,22 +44,6 @@
   – Connects local networks into larger internetworks; the Internet is the largest example.  
 
 
-
-
-<img width="1280" height="434" alt="image" src="https://github.com/user-attachments/assets/5d7a4695-87a0-4b3d-971b-b90fd542dd4c" />
-
-<img width="1280" height="361" alt="image" src="https://github.com/user-attachments/assets/144d9fe2-b386-402b-accd-8d69fbeb8d57" />
-
-
-
-⚙️ **Transport layer**  
-  – Ensures that data arriving at a node is delivered to the **correct application process** (multiple clients/servers can run on one node).  
-  – Primary protocols: **TCP (Transmission Control Protocol)** and **UDP (User Datagram Protocol)**.  
-  – **TCP** provides connection-oriented, reliable, ordered delivery (retransmissions, flow control, congestion control).  
-  – **UDP** provides connectionless, best-effort delivery without reliability guarantees — lower overhead, used where speed/low latency matters.  
-  – Practical mechanism: **port numbers** are used to demultiplex traffic to specific applications (e.g., web, email).  
-  – Important distinction: although often said together as "**TCP/IP**", **TCP and IP are separate protocols at different layers** serving different purposes — useful for troubleshooting.  
-
 <img width="1279" height="460" alt="image" src="https://github.com/user-attachments/assets/15b53a4a-22f3-486e-a25a-2af58ef2f5bd" />
 
 <img width="1280" height="446" alt="image" src="https://github.com/user-attachments/assets/b0975183-d63c-4b9f-8a4b-bef70b941e91" />
@@ -71,11 +55,22 @@
 <img width="1271" height="500" alt="image" src="https://github.com/user-attachments/assets/248d52e9-e23f-4afb-9fc1-d44435a1b596" />
 
 
+⚙️ **Transport layer**  
+  – Ensures that data arriving at a node is delivered to the **correct application process** (multiple clients/servers can run on one node).  
+  – Primary protocols: **TCP (Transmission Control Protocol)** and **UDP (User Datagram Protocol)**.  
+  – **TCP** provides **connection-oriented**, reliable, ordered delivery (retransmissions, flow control, congestion control).  
+  – **UDP** provides **connectionless**, best-effort delivery without reliability guarantees — lower overhead, used where speed/low latency matters.  
+  – Practical mechanism: **port numbers** are used to demultiplex traffic to specific applications (e.g., web, email).  
+  – Important distinction: although often said together as "**TCP/IP**", **TCP and IP are separate protocols at different layers** serving different purposes — useful for troubleshooting.  
+
+
+<img width="1278" height="431" alt="image" src="https://github.com/user-attachments/assets/ec36898c-c175-4b70-a63e-f0c2b7c6167a" />
+
+
 🧩 **Application layer**  
   – Contains **application-specific protocols** that users interact with directly or that applications use to communicate (examples: **HTTP** for web, **SMTP/IMAP** for email, DNS, FTP).  
   – Defines data formats, commands, and semantics needed by applications; relies on lower layers for delivery and addressing.  
 
-<img width="1278" height="431" alt="image" src="https://github.com/user-attachments/assets/ec36898c-c175-4b70-a63e-f0c2b7c6167a" />
 
 
 📦 **Layer-role analogy (package delivery)**  
