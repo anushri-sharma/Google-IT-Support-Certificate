@@ -1,8 +1,8 @@
 
 
-[Ticketing Systems and Documenting Your Work](https://www.youtube.com/watch?v=1s1ZQRBuYzo&t=2s)
+# [Ticketing Systems and Documenting Your Work](https://www.youtube.com/watch?v=1s1ZQRBuYzo&t=2s)
 
-[Process Documentation](https://www.youtube.com/watch?v=hEnBREqP1rE&t=68s)
+
 
 <img width="1280" height="390" alt="image" src="https://github.com/user-attachments/assets/0876d45a-9415-48e0-bf55-31259c46abf9" />
 
@@ -28,6 +28,14 @@ It's important to **update documentation** so that you aren't reading something 
 
 You want to be as **concise** as possible so that when someone reads your document, they can easily figure out what they need to do.
 
+# [Process Documentation](https://www.youtube.com/watch?v=hEnBREqP1rE&t=68s)
+
 <img width="1280" height="437" alt="image" src="https://github.com/user-attachments/assets/93450e0a-4467-40e7-9002-599c2f791589" />
 
 <img width="1280" height="716" alt="image" src="https://github.com/user-attachments/assets/1781b41e-738c-4d85-94d7-27aea419b575" />
+
+# [Documenting in Ticketing Systems](https://www.youtube.com/watch?v=B40rbjuXS9E&t=3s)
+
+<img width="1280" height="504" alt="image" src="https://github.com/user-attachments/assets/6ea47699-9d54-45ee-bd47-951b88b396da" />
+
+<img width="1280" height="623" alt="image" src="https://github.com/user-attachments/assets/edbcba82-86cb-4281-8da6-0f7178dc09bf" />
