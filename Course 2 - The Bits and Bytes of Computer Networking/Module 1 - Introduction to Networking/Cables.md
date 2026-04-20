@@ -12,6 +12,8 @@
 ⚡ **Two primary cable categories: copper and fiber**
   – **Copper cables** transmit data via **electrical voltage changes** between two ranges to represent binary ones and zeros.  
   – **Fiber (fiber optic) cables** transmit data via **pulses of light** through glass strands.
+  - **Copper cables** are the most common form of networking cable
+They're made up of multiple pairs of copper wires inside plastic insulator.
 
 🧵 **Copper twisted-pair construction and behavior**
   – Copper cables are made of **multiple pairs of copper wires** inside plastic insulation; pairs are twisted to affect signal behavior.  
@@ -28,7 +30,10 @@
 💡 **Common copper categories and differences**
   – **Cat 5**: older standard, largely replaced in modern installations.  
   – **Cat 5e**: improved against interference; reduces **crosstalk**, so fewer retransmissions and better effective throughput.  
+  - Cat 5e cable make it less likely that data needs to be retransmitted. That means, on average, you can expect more data to be transferred in the same amount of time.
   – **Cat 6**: stricter internal specifications to further reduce crosstalk; supports **higher speeds and reliability** but can have a **shorter maximum distance at higher speeds** and is more expensive.
+  - **Cat 6** cables can transfer data faster and more reliably than Cat 5e cables can, but
+because of their internal arrangement, they have a shorter maximum distance when used at higher speeds. 
 
 🛑 **Crosstalk and retransmission implications**
   – **Crosstalk**: an electrical pulse on one wire being detected on another, causing errors.  
@@ -55,6 +60,16 @@
 
 <img width="1279" height="505" alt="image" src="https://github.com/user-attachments/assets/c7213a8d-aefa-4564-b9ca-b206aa211f33" />
 
+- **Fiber cables** contain individual optical fibers, which are tiny tubes made out of glass about the width of a human hair.
 
+- These tubes of glass can transport beams of light.
+
+- **Unlike copper**, which uses electrical voltages, fiber cables use pulses of light to represent the ones and zeros of the underlying data.
+
+- **Fiber** is even sometimes used specifically in environments where there's a lot of electromagnetic interference from outside sources because this can impact data being sent across copper wires.
+
+- **Fiber** cables can generally transport data quicker than copper cables can, but they're much more expensive and fragile.
+
+- **Fiber** can also transport data over much longer distances than copper can without suffering potential data loss.
 
   
