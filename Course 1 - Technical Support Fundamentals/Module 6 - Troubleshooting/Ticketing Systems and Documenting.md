@@ -2,6 +2,8 @@
 
 [Ticketing Systems and Documenting Your Work](https://www.youtube.com/watch?v=1s1ZQRBuYzo&t=2s)
 
+[Process Documentation](https://www.youtube.com/watch?v=hEnBREqP1rE&t=68s)
+
 <img width="1280" height="390" alt="image" src="https://github.com/user-attachments/assets/0876d45a-9415-48e0-bf55-31259c46abf9" />
 
 <img width="1280" height="369" alt="image" src="https://github.com/user-attachments/assets/fa4e9283-a939-4998-9efe-5861ca7a1a2e" />
@@ -25,3 +27,7 @@ This is important for **two reasons**:-
 It's important to **update documentation** so that you aren't reading something that's old.
 
 You want to be as **concise** as possible so that when someone reads your document, they can easily figure out what they need to do.
+
+<img width="1280" height="437" alt="image" src="https://github.com/user-attachments/assets/93450e0a-4467-40e7-9002-599c2f791589" />
+
+<img width="1280" height="716" alt="image" src="https://github.com/user-attachments/assets/1781b41e-738c-4d85-94d7-27aea419b575" />
