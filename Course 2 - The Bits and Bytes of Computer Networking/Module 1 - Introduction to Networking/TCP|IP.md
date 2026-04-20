@@ -5,13 +5,15 @@
 
 <img width="1280" height="441" alt="image" src="https://github.com/user-attachments/assets/76d09339-43df-4137-96a5-81c34a777e08" />
 
-<img width="1278" height="643" alt="image" src="https://github.com/user-attachments/assets/2c99630a-5f5f-460a-9702-d153bf87712f" />
-
-
 
 🔥 **Five-layer TCP/IP model — purpose and scope**  
   – Defines layered responsibilities from physical cabling up to application protocols for clear separation of concerns and troubleshooting.  
   – Layers (bottom→top): **Physical**, **Data Link (Network Interface/Access)**, **Network (Internet)**, **Transport**, **Application**.  
+
+<img width="1278" height="643" alt="image" src="https://github.com/user-attachments/assets/2c99630a-5f5f-460a-9702-d153bf87712f" />
+
+
+
 
 🔌 **Physical layer**  
   – Defines **physical devices, cables, connectors, signal formats, and how electrical/optical/wireless signals are sent**.  
