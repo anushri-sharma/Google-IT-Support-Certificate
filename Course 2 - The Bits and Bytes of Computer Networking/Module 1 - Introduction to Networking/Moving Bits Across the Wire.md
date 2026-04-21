@@ -1,0 +1,33 @@
+
+[Moving Bits Across the Wire](https://www.youtube.com/watch?v=PZRd5eacWqo&t=129s)
+
+**Physical layer** that will allow you to properly troubleshoot networking issues and set up new networks.
+
+The physical layer **consists of devices** and means of **transmitting bits across computer networks**.
+
+#### A bit is the smallest representation of data that a computer can understand.
+
+It's a **one or a zero**.
+
+These ones and zeros sense across networks at the lowest level are what make up
+the frames and packets of data that we'll learn about when we cover the other layers.
+
+The takeaway is that it doesn't matter whether you're streaming your favorite song, emailing your boss, 
+or using an ATM, what you're really doing is sending ones and zeros across the physical layer of the many 
+different networks between you, and the server you're interacting with.
+
+A standard copper network cable, once connected to devices on both ends, will carry a constant electrical charge.
+
+**Ones and zeros** are **sent across those network cables** through a process called **modulation**.
+
+#### Modulation is a way of varying the voltage of this charge moving across the cable.
+
+When used for computer networks, this kind of modulation is more specifically known as **line coding**.
+
+It allows devices on either end of a link to understand that an electrical charge in a certain state is a zero and another state is a one.
+
+<img width="1280" height="603" alt="image" src="https://github.com/user-attachments/assets/053269b8-7e23-49eb-a259-b3bdb27e91bd" />
+
+
+Through this seemingly simple technique, **modern networks are capable of moving 10 billion ones and zeros** 
+**across a single network cable every second.**
