@@ -31,9 +31,6 @@
  
   – The random backoff reduces the chance of repeated collisions among the same devices.
 
-<img width="1280" height="409" alt="image" src="https://github.com/user-attachments/assets/d0b4377b-eb6d-4178-99b9-347b8c47c6f0" />
-
-
 - **When a network segment is a collision domain**, it means that all devices on that segment receive all communication across the entire segment.
 
 - This means we need a way to identify which node the transmission was actually meant for.
