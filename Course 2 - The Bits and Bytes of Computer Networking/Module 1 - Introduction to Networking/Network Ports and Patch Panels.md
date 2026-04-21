@@ -22,11 +22,11 @@ Your laptop, tablet or phone probably don't have any.
 
 **Most network ports have two small LEDs**.
 
-One is the link light and the other is the **activity light**.
+One is the **link light** and the other is the **activity light**.
 
-The link light will be lit when a cable is properly connected to two devices that are both powered on.
+#### The link light will be lit when a cable is properly connected to two devices that are both powered on.
 
-The activity light will flash when data is actively transmitted across the cable.
+#### The activity light will flash when data is actively transmitted across the cable.
 
 <img width="766" height="470" alt="image" src="https://github.com/user-attachments/assets/58ce2e5d-bb61-455b-827c-287f052d74fc" />
 <img width="917" height="501" alt="image" src="https://github.com/user-attachments/assets/f1b053a4-0edb-4a49-92ef-22f8e3052f01" />
