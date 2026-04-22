@@ -34,6 +34,29 @@ Why others are incorrect:
 <img width="834" height="610" alt="image" src="https://github.com/user-attachments/assets/fb65ea77-5b94-434a-a696-6b833b9e7980" />
 
 ```
+ANS 3: In networking, data is built top-down through layers:
+
+- Application layer → creates data
+- Transport layer (TCP) → creates a TCP segment
+- Network layer → wraps it into an IP datagram
+- Data link layer → wraps it into an Ethernet frame
+
+So the first actual segment created for a TCP connection is the TCP segment (which includes the SYN for the handshake).
+```
+
+```
+ANS 4
+An Ethernet frame encapsulates data from the network layer. Its payload contains the IP datagram, which includes:
+
+- Source IP
+- Destination IP
+- Transport data (like TCP segment)
+```
+
+<img width="739" height="355" alt="image" src="https://github.com/user-attachments/assets/b886e29d-cdc2-43a6-ab17-a04800494e6a" />
+
+
+```
 Router Z and Computer 2 are on the same network (Network C)
 When sending within the same network, the Ethernet frame’s destination MAC must be the final device’s MAC address
 
@@ -46,14 +69,6 @@ Why others are incorrect:
 Bottom line:
 
 👉 On the final hop, destination MAC = receiver’s MAC (Computer 2)
-```
-
-<img width="739" height="355" alt="image" src="https://github.com/user-attachments/assets/b886e29d-cdc2-43a6-ab17-a04800494e6a" />
-
-
-```
-✅ Computer 2’s MAC address
-Since it's on the same network, it sends directly to Computer 2.
 ```
 
 <img width="844" height="381" alt="image" src="https://github.com/user-attachments/assets/081e4911-a697-4bd4-937a-729f58425171" />
