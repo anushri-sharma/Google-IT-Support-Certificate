@@ -293,6 +293,4 @@ identifier to the beginning of the data within each piece. This crucial field al
 device to correctly reassemble the segments into their original order, even if they arrive out of
 sequence. This field is the Sequence number.
 
-Did``` you completed this study guide?
-
-Yes
+```
