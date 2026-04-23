@@ -167,3 +167,79 @@ Gateway proxy ✖️ → General term, not specific to web filtering
 Reverse proxy ✖️ → Protects servers, not clients
 Authentication proxy ✖️ → Focuses on verifying user identity
 ```
+
+<img width="861" height="369" alt="image" src="https://github.com/user-attachments/assets/dfc52726-54dc-4964-8336-335491df03d8" />
+
+```
+💡 Explanation:
+
+When a website is moved to a new web host:
+
+- The server changes, so the IP address associated with the domain changes
+- The domain name (like example.com) usually stays the same
+- DNS records are updated to point to the new IP
+
+❌ Why others are incorrect:
+
+- Root name server ✖️ → Unrelated to individual websites
+- Network service ✖️ → Not necessarily changed
+- Domain name ✖️ → Typically remains the same
+```
+
+<img width="817" height="377" alt="image" src="https://github.com/user-attachments/assets/8dd13486-6f38-4099-9169-92500b3c75ad" />
+
+```
+A CNAME (Canonical Name) record maps one domain name to another
+```
+
+<img width="816" height="348" alt="image" src="https://github.com/user-attachments/assets/ce55fe13-5041-4235-987a-bebfc7bb2202" />
+
+
+```
+💡 Explanation:
+
+When NAT hides the original (private) source IP and replaces it with the router’s public IP, it’s called masquerading.
+
+Internal device → private IP
+Router → replaces it with public IP
+External network only sees the router’s IP
+```
+
+<img width="854" height="406" alt="image" src="https://github.com/user-attachments/assets/8e5cb49c-c7b7-4223-8762-054a630ee4b8" />
+
+```
+💡 Explanation:
+
+NAT masquerading (one-to-many NAT) hides all internal IPs behind one public IP
+But to allow incoming traffic (like hosting a web server), you need a way to direct
+requests to the correct internal device
+Port forwarding does exactly that:
+
+- Maps a specific port on the public IP
+- Forwards it to a specific internal IP + port
+
+❌ Why others are incorrect:
+
+Preservation ✖️ → Refers to keeping the same port number
+One-to-many ✖️ → Describes NAT type, but doesn’t handle incoming traffic routing
+Rewriting ✖️ → General concept, not a specific technique
+```
+
+<img width="750" height="376" alt="image" src="https://github.com/user-attachments/assets/40d74817-88d7-47bd-9dee-2eb8c92e3984" />
+
+
+```
+💡 Explanation:
+
+A reverse proxy:
+
+- Appears as a single server to clients
+- Forwards requests to multiple backend servers
+- Helps with load balancing, security, and performance
+
+❌ Why others are incorrect:
+
+- multiplexer ✖️ → Not used in this context
+- VPN ✖️ → Secure connection, not request distribution
+- port preservation ✖️ → NAT concept
+```
