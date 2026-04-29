@@ -1,5 +1,5 @@
 
-Gain essential skills in Information Technology, including computer hardware, the Internet, software, troubleshooting, and customer service. This foundational course introduces to the multifaceted world of IT, providing a broad overview of topics within this field. This is the first course in the IT Support Specialist Certificate
+**Gain essential skills in Information Technology, including computer hardware, the Internet, software, troubleshooting, and customer service. This foundational course introduces to the multifaceted world of IT, providing a broad overview of topics within this field. This is the first course in the IT Support Specialist Certificate**
 
 
 🔥 **Core premise: a computer calculates and processes data**  
