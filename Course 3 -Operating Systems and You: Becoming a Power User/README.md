@@ -1,7 +1,6 @@
 
 
-Explore operating systems, learn to manage software, users, and configure hardware, demonstrations. This is the third course in the Google IT Support Certificate.
-
+**Explore operating systems, learn to manage software, users, and configure hardware, demonstrations. This is the third course in the Google IT Support Certificate.**
 
 Covered a ton of information in this course.
 
