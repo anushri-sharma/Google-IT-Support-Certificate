@@ -1,3 +1,2 @@
 
-
-Gain essential skills in systems administration to confidently manage reliable computer systems in multi-user environments. Explore critical infrastructure services that keep organizations running and delve into cloud management, configuring servers, and using industry tools to manage computers, user information, and productivity. This is the fourth course in the Google IT Support Certificate, a series designed to prepare you for an IT support role.
+**Gain essential skills in systems administration to confidently manage reliable computer systems in multi-user environments. Explore critical infrastructure services that keep organizations running and delve into cloud management, configuring servers, and using industry tools to manage computers, user information, and productivity. This is the fourth course in the Google IT Support Certificate, a series designed to prepare you for an IT support role.**
