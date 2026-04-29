@@ -1,4 +1,11 @@
 
+
+**System administrators have lots of responsibilities, like maintaining infrastructure services.
+IT infrastructure services are what allow an organization to function.**
+
+**These include connecting to the Internet, managing networks by setting up the network hardware, connecting computers to an internal network, etc.**
+
+
 **Cloud computing**: The concept and technological approach of accessing data, using applications,
 storing les, etc. from anywhere in the world as long as you have an internet connection
 
