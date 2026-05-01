@@ -1,4 +1,12 @@
 
+### In the last module, we learned about the software services used in an organization like communication software, security, and file storage services.
+
+### Then we talked about platform services involved in organizations that build a software product.
+
+### Finally, we learned about some of the servers that support those organizations like web and database servers.
+
+### In this module, we're going to learn about the last major IT infrastructure service, directory services.
+
 
 AAA (authentication, authorization, accounting): The services that the directory services provide
 to all the computers within a company or organization
