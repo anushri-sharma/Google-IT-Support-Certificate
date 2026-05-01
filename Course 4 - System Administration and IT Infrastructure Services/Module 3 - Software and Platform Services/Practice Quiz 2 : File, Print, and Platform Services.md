@@ -1,4 +1,5 @@
-# [Practice Quiz: File, Print, and Platform Services]
+
+# Practice Quiz: File, Print, and Platform Services
 
 <img width="617" height="688" alt="image" src="https://github.com/user-attachments/assets/2f336982-e0ce-4486-9681-407a5a09cb59" />
 
