@@ -3,9 +3,8 @@
 <img width="593" height="371" alt="image" src="https://github.com/user-attachments/assets/e4d8f234-02ee-4bfd-81b8-2e6eb409763b" />
 
 ```
-Here are the correct answers and explanations for your security quiz:
-
 1. Access Control
+
 Badge readers
 Badge readers are the standard physical security device used to grant employees access to buildings and restricted zones using RFID or NFC cards, often logging the time of entry.
 
