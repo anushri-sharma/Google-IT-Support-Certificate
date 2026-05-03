@@ -144,14 +144,14 @@ Monitoring: A Network Intrusion Prevention System (IPS) specifically monitors th
 
  | Requirement                  |        Solution|
 |---------------------------------|--------------------------------------------|
----|
+|
 |Customer Data	|PCI DSS compliance & Tokenization|
----|
+|
 |Remote Access	|VPN + Bastion Host|
----|
+|
 |Physical Loss	|BitLocker/FileVault Encryption|
----|
+|
 |Phishing Defense	|FIDO2/U2F Security Keys|
----|
+|
 |Internal Web	|SSO & Intranet Isolation|
----|
+|
