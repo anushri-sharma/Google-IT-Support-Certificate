@@ -26,14 +26,16 @@ correlate, and analyze events in a centralized logging setup.
 
 <img width="573" height="590" alt="image" src="https://github.com/user-attachments/assets/2fd14b7b-8202-4809-bacd-13ffb1f84ce6" />
 
-```
-Dynamic ARP Inspection (DAI) validates ARP packets on the network to prevent attackers
-from spoofing IP-to-MAC mappings.
-```
+
 
 <img width="525" height="489" alt="image" src="https://github.com/user-attachments/assets/e69952cf-4b3f-4089-97a9-ed672486ebda" />
 
 <img width="550" height="415" alt="image" src="https://github.com/user-attachments/assets/423e8ede-eebb-4d35-a432-9dc5b92f78f8" />
+
+```
+Dynamic ARP Inspection (DAI) validates ARP packets on the network to prevent attackers
+from spoofing IP-to-MAC mappings.
+```
 
 <img width="534" height="401" alt="image" src="https://github.com/user-attachments/assets/1cf0ae63-3797-48e7-8ae4-3d0c07b57c8e" />
 
