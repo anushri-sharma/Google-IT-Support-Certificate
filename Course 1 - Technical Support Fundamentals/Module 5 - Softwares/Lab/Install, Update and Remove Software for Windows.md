@@ -14,4 +14,6 @@ There are three learning objectives for this lab:
 ## Links
 
 https://www.mozilla.org/en-US/firefox/new/
+
+
 https://www.videolan.org/vlc/download-windows.html
