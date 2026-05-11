@@ -73,7 +73,8 @@ In this activity, you will use the tool below to help you convert a decimal numb
 
 Click the binary bits necessary to compute the decimal value on the right column. You have 10 calculations to complete.
 
-![img](binary-calculator.png)
+<img width="337" height="459" alt="image" src="https://github.com/user-attachments/assets/bf9806c0-0ae6-4ce6-9a0e-ffb9d5de3e82" />
+
 
 <br>
 
