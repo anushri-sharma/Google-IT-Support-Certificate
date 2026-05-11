@@ -1,15 +1,19 @@
+## [Operating Systems and You: Becoming a Power User](https://www.coursera.org/learn/os-power-user?specialization=google-it-support)
 
+In this course -- through a combination of video lectures, demonstrations, and hands-on practice -- you’ll learn about the main components of an operating system and how to perform critical tasks like managing software and users, and configuring hardware. 
 
-**Explore operating systems, learn to manage software, users, and configure hardware, demonstrations. This is the third course in the Google IT Support Certificate.**
+By the end of this course you’ll be able to:
+* Navigate the Windows and Linux filesystems using a graphical user interface and command line interpreter
+* Set up users, groups, and permissions for account access
+* Install, configure, and remove software on the Windows and Linux operating systems
+* Configure disk partitions and filesystems
+* Understand how system processes work and how to manage them
+* Work with system logs and remote connection tools
+* Utilize operating system knowledge to troubleshoot common issues in an IT Support Specialist role
 
-Covered a ton of information in this course.
+### Skills you will gain
 
-1. How to navigate the Windows and Linux OSs.
-
-2. How the intricate components of an OS work and how to troubleshoot common issues found within them.
-
-3. How to manage software from basic device drivers to applications, set up disks and partitions, format a file system, read logs and traverse them.
-
-4. Finally, how to make your job easier using remote connections and operating system imaging.
-
-
+* Powershell
+* Linux File Systems
+* Linux
+* Command-Line Interface
