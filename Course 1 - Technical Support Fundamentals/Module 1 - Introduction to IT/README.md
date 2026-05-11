@@ -1,4 +1,56 @@
+## Introduction to IT
 
+Welcome to Technical Support Fundamentals, the first course of the IT Support Professional Certificate! By enrolling in this course, you are taking the first step to kickstarting your career in tech. In the first week of the course, we'll learn about how computers were invented, how they've evolved over time, and how they work today. We will also learn about what an "IT Support Specialist" is and what they do in their job. By the end of this module, you will know how to count like a computer using binary and understand why these calculations are so powerful for society. So let's get started!
+
+### Key Concepts
+
+* Understand why and how humans went from counting using manual methods to calculating data with computers.
+* Describe what binary is and how we use it to communicate with computers.
+* Understand what the layers of computer architecture are.
+* Convert binary numbers into decimal form.
+
+---
+## Course Highlights
+
+<br>
+
+### Introduction to IT Support
+
+* **Information Technology (IT)**: The use of digital technology, like computers and the Internet, to store and process data into useful information.
+* There are thousands of **companies** around the world searching for **IT professionals** like **you**!.
+
+<br>
+
+### History of Computing
+
+* **Computer**: A device that stores and processes data by performing calculations.
+* **Algorithm**: A series of steps that solve specific problems.
+* **Cryptography**: The art of writing and solving codes.
+* **Open source**: Anyone could modify and share it.
+
+<br>
+
+### Digital Logic
+
+* **Binary system**: The communication that a computer uses, also known as a base-2 numeral system.
+* We group binary into 8 number or **bits**. Technically, a **bit** is a binary digit.
+* A group of 8 bits is referred to as a **byte**.
+* Each byten can store one character, and we can have 256 possible values thanks to the base-2 system (2<sup>8</sup>).
+* **Character encoding**: Assigns our binary values to characters, so that we as humans can read them.
+* The first character in the ASCII to binary table -- a lowercase 'a' -- maps to 01100001 in binary.
+* **Logic gates**: Allow our transistors to do more complex tasks, like decide where to send electrical signals depending on logical conditions.
+
+<br>
+
+### Computer Architecture Layer
+
+* **Abstraction**: To take a relatively complex system and simplify it for our use.
+* **Hardware layer**: Made up of the physical components of a computer.
+* **Operating system**: Allows hardware to communicate with the system.
+* **Software layer**: How we as humans interact with our computer.
+* **User**: Interacts with the computer.
+
+-----
 Abstraction: To take a relatively complex system and simplify it for our use
 
 Algorithm: A series of steps that solves specific problems
