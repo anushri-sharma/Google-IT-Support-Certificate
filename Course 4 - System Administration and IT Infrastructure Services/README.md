@@ -1,35 +1,21 @@
+## [System Administration and IT Infrastructure Services](https://www.coursera.org/learn/system-administration-it-infrastructure-services?specialization=google-it-supports)
 
-**Gain essential skills in systems administration to confidently manage reliable computer systems in multi-user environments. Explore critical infrastructure services that keep organizations running and delve into cloud management, configuring servers, and using industry tools to manage computers, user information, and productivity. This is the fourth course in the Google IT Support Certificate.**
+This course will transition you from working on a single computer to an entire fleet. Systems administration is the field of IT that’s responsible for maintaining reliable computers systems in a multi-user environment. In this course, you’ll learn about the infrastructure services that keep all organizations, big and small, up and running. We’ll deep dive on cloud so that you’ll understand everything from typical cloud infrastructure setups to how to manage cloud resources. You'll also learn how to manage and configure servers and how to use industry tools to manage computers, user information, and user productivity. Finally, you’ll learn how to recover your organization’s IT infrastructure in the event of a disaster.
 
+By the end of this course you’ll be able to:
+* Utilize best practices for choosing hardware, vendors, and services for your organization
+* Understand how the most common infrastructure services that keep an organization
+running work, and how to manage infrastructure servers
+* Understand how to make the most of the cloud for your organization
+* Manage an organization’s computers and users using the directory services, Active
+Directory, and OpenLDAP
+* Choose and manage the tools that your organization will use
+* Backup your organization’s data and know how to recover your IT infrastructure in the case of
+a disaster
+* Utilize systems administration knowledge to plan and improve processes for IT environments
 
+### Skills you will gain
 
-
-To running the hardware, lifecycle provisioning hardware for users.
-
-To maintaining software for a fleet of machines or working with users and flexing your troubleshooting skills.
-
-On top of that system administration responsibilities also include managing IT infrastructure services.
-
-Covered the various IT infrastructure services that make up in organizations IT environment.
-
-Gain Knlowledge about physical infrastructure services like working with server hardware and virtualized service along with how to access those services using remote connection methods.
-
-Gain Knlowledge about the various network services involved in an organization and why DNS and DHCP are essential to a company.
-
-You've reviewed software services and the differences between using software in a personal and commercial setting.
-
-Gain Knlowledge about the different communications software used in the industry along with vital services like fast storage and printing.
-
-You also covered common platform services and how web service function.
-
-The **last IT infrastructure service** that you learned about was directory services.
-
-We covered centralized management of the company's users and IT assets.
-
-Gain Knlowledge about and got hands on with two of the most popular directory services.
-
-Active directory and open our.
-
-Finally, Gain Knlowledge  how to protect your organization's data in the case of a disaster.
-
-Gain Knlowledge how to back up critical data, create a disaster recovery plan, pick up the pieces after disaster struck and learn from it by creating a postmortem.
+* Directory Service
+* Lightweight Directory Access Protocol (LDAP)
+* Backup
