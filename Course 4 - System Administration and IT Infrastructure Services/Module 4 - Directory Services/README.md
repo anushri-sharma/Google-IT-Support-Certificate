@@ -1,12 +1,14 @@
+## Directory Services
 
-### In the last module, we learned about the software services used in an organization like communication software, security, and file storage services.
+In the fourth week of this course, we'll learn about directory services. Specifically, we'll cover how two of the most popular directory services, Active Directory and OpenLDAP, work in action. We'll explore the concept of centralized management and how this can help SysAdmins maintain and support all the different parts of an IT infrastructure. By the end of this module, you will know how to add users, passwords, and use group policies in Active Directory and OpenLDAP.
 
-### Then we talked about platform services involved in organizations that build a software product.
+### Key Concepts
 
-### Finally, we learned about some of the servers that support those organizations like web and database servers.
+* Understand what services a directory server provides.
+* Understand what LDAP and Active Directory are.
 
-### In this module, we're going to learn about the last major IT infrastructure service, directory services.
 
+------
 
 AAA (authentication, authorization, accounting): The services that the directory services provide
 to all the computers within a company or organization
