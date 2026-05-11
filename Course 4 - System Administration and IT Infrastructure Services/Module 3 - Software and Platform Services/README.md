@@ -1,22 +1,22 @@
 
-### In the last module, we learned about the physical infrastructure and network services that are used in an IT organization.
+## Software and Platform Services
 
-#### In this lesson, we're going to discuss the other services that make up an IT infrastructure.
+In the third week of this course, we'll explore software and platform services. We'll cover what types of software and platform services you may encounter in a tech role and how to manage them. We'll learn how to configure email services, security services, file services, print services, and platform services. We'll explore ways to troubleshoot platform services and common issues to look out for. By the end of this module, you'll understand how to setup and manage the IT infrastructure services to help a business stay productive, keep information secure, and deliver applications to its users.
 
-**The software and the platform services.**
+### Key Concepts
+
+* Know what communication services are available and what you need for an organization.
+* Run a local webserver and understand how a public webserver works.
 
 
+----
 <img width="1280" height="350" alt="image" src="https://github.com/user-attachments/assets/dde573e9-7adc-4231-9510-d113726d2db9" />
 
+-----
 
 <img width="1271" height="347" alt="image" src="https://github.com/user-attachments/assets/d052db5c-748b-4207-a421-bdb8edceff3a" />
 
-
-#### This can include applications like Word processors, Internet browsers, email clients, chat clients, and so on.
-
-#### Platform services provide a platform for developers to code, build and manage software applications.
-
-#### This way, developers don't have to deal with operating system maintenance and other services that are needed to use for the platform tools.
+-------
 
 **Autoscaling**: A system that allows the service to increase or reduce capacity as needed, while the
 service owner only pays for the cost of the machines that are in use at any given time
