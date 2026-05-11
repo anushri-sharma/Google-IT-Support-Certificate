@@ -6,7 +6,8 @@ Welcome to the System Administration course of the IT Support Professional Certi
 
 * Examine the roles and responsibilities of a Systems Administrator.
 * Differentiate the technical differences between a server and a client machine.
-* -----
+
+-----
 
 **System administrators have lots of responsibilities, like maintaining infrastructure services.
 IT infrastructure services are what allow an organization to function.**
