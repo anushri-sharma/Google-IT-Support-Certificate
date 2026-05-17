@@ -41,13 +41,13 @@ understand
 Application layer payload: The entire contents of whatever data applications want to send to each
 other
 
-CLOSE: A connection state that indicates that the connection has been fully terminated, and that no
+**CLOSE:** A connection state that indicates that the connection has been fully terminated, and that no
 further communication is possible
 
-CLOSE_WAIT: A connection state that indicates that the connection has been closed at the TCP layer,
+**CLOSE_WAIT:** A connection state that indicates that the connection has been closed at the TCP layer,
 but that the application that opened the socket hasn't released its hold on the socket yet
 
-Connection-oriented protocol: A data-transmission protocol that establishes a connection at the
+**Connection-oriented protocol:** A data-transmission protocol that establishes a connection at the
 transport layer, and uses this to ensure that all data has been properly transmied
 
 Connectionless protocol: A data-transmission protocol that allows data to be exchanged without an
@@ -100,12 +100,12 @@ end as soon as possible
 RST ag: One of the TCP control ags. RST is short for reset. This ag means that one of the sides in a
 TCP connection hasn't been able to properly recover from a series of missing or malformed segments
 
-Sequence number: A 32-bit number that's used to keep track of where in a sequence of TCP
+**Sequence number:** A 32-bit number that's used to keep track of where in a sequence of TCP
 segments this one is expected to be
 
-Server or Service: A program running on a computer waiting to be asked for data
+**Server or Service:** A program running on a computer waiting to be asked for data
 
-Session layer: The network layer responsible for facilitating the communication between actual
+**Session layer**: The network layer responsible for facilitating the communication between actual
 applications and the transport layer
 
 Socket: The instantiation of an endpoint in a potential TCP connection
