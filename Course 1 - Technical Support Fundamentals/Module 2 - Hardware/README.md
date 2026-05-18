@@ -65,27 +65,27 @@ In the second week of this course, we'll learn about what's inside a computer. W
 -----
 # New terms and their definitions: Course 1 Module 2
 
-Address bus: Connects the CPU to the MCC and sends over the location of the data, but not the data
+**Address bus:** Connects the CPU to the MCC and sends over the location of the data, but not the data
 itself
 
-ATA: The most common interface that hard drives use to connect to our system
+**ATA:** The most common interface that hard drives use to connect to our system
 
-ATX (Advanced Technology eXtended): The most common form factor for motherboards
+**ATX (Advanced Technology eXtended):** The most common form factor for motherboards
 
-Backward compatible: It means older hardware works with newer hardware
+**Backward compatible:** It means older hardware works with newer hardware
 
-Bios (Basic Input Output Services): The BIOS is software that helps initialize the hardware in our
+**Bios (Basic Input Output Services):** The BIOS is software that helps initialize the hardware in our
 computer and gets our operating system up and running
 
-BYOD (Bring Your Own Device): Refers to the practice of allowing people to use their own personal
+**BYOD (Bring Your Own Device):** Refers to the practice of allowing people to use their own personal
 devices for work
 
-Cache: The assigned stored location for recently or frequently accessed data; on a mobile app it is
+**Cache:** The assigned stored location for recently or frequently accessed data; on a mobile app it is
 where anything that was changed or created with that app is stored
 
-Charge cycle: One full charge and discharge of a battery
+**Charge cycle:** One full charge and discharge of a battery
 
-Chipset: It decides how components talk to each other on our machine
+AWS Cloud Practitioner Certification It decides how components talk to each other on our machine
 
 Clock cycle: When you send a voltage to the clock wire
 
