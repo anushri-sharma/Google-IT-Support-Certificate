@@ -102,21 +102,21 @@ computers
 Spear phishing: Phishing that targets individual or group - the fake emails may contain some personal
 information like your name, or the names of friends or family
 
-Spoong: When a source is masquerading around as something else
+**Spoong:** When a source is masquerading around as something else
 
-Spyware: The type of malware that's meant to spy on you
+**Spyware:** The type of malware that's meant to spy on you
 
-SQL Injection Attack: An attack that targets the entire website if the website is using a SQL database
+**SQL Injection Attack:** An attack that targets the entire website if the website is using a SQL database
 
-SYN ood: The server is bombarded with SYN packets
+**SYN ood:** The server is bombarded with SYN packets
 
-Tailgating: Gaining access into a restricted area or building by following a real employee in
+**Tailgating**: Gaining access into a restricted area or building by following a real employee in
 
-Threat: The possibility of danger that could exploit a vulnerability
+**Threat**: The possibility of danger that could exploit a vulnerability
 
-Trojan: Malware that disguises itself as one thing but does something else
+**Trojan:** Malware that disguises itself as one thing but does something else
 
-Viruses: The best known type of malware
+**Viruses:** The best known type of malware
 
 **Vulnerability:** A flaw in the system that could be exploited to compromise the system
 
