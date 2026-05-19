@@ -118,10 +118,10 @@ Trojan: Malware that disguises itself as one thing but does something else
 
 Viruses: The best known type of malware
 
-Vulnerability: A flaw in the system that could be exploited to compromise the system
+**Vulnerability:** A flaw in the system that could be exploited to compromise the system
 
-Worms: They are similar to viruses except that instead of having to aach themselves onto something
+**Worms:** They are similar to viruses except that instead of having to aach themselves onto something
 to spread, worms can live on their own and spread through channels like the network
 
-0-Day Vulnerability (Zero Day): A vulnerability that is not known to the soware developer or vendor,
+**0-Day Vulnerability (Zero Day):** A vulnerability that is not known to the soware developer or vendor,
 but is known to an aacker
