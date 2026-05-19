@@ -67,21 +67,21 @@ rampant on the web, where an aacker injects malicious code
 
 **Logic bomb:** A type of Malware that's intentionally installed
 
-Malware: A type of malicious soware that can be used to obtain your sensitive information or delete
+**Malware:** A type of malicious soware that can be used to obtain your sensitive information or delete
 or modify les
 
-Meddler in the middle (formerly known as Man in the Middle): An aack that places the aacker in
+**Meddler in the middle (formerly known as Man in the Middle):** An attack that places the aacker in
 the middle of two hosts that think they're communicating directly with each other
 
-Password aacks: Utilize soware like password crackers that try and guess your password
+**Password attacks**: Utilize soware like password crackers that try and guess your password
 
-Phishing aack: It usually occurs when a malicious email is sent to a victim disguised as something
+**Phishing attack:** It usually occurs when a malicious email is sent to a victim disguised as something
 legitimate
 
-Ping ood: It sends tons of ping packets to a system. If a computer can't keep up with this, then it's
+**Ping ood:** It sends tons of ping packets to a system. If a computer can't keep up with this, then it's
 prone to being overwhelmed and taken down
 
-Ransomware: A type of aack that holds your data or system hostage until you pay some sort of
+Ransomware: A type of attack that holds your data or system hostage until you pay some sort of
 ransom
 
 Risk: The possibility of suering a loss in the event of an attack on the system
