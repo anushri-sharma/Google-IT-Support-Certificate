@@ -81,25 +81,25 @@ legitimate
 **Ping ood:** It sends tons of ping packets to a system. If a computer can't keep up with this, then it's
 prone to being overwhelmed and taken down
 
-Ransomware: A type of attack that holds your data or system hostage until you pay some sort of
+**Ransomware:** A type of attack that holds your data or system hostage until you pay some sort of
 ransom
 
-Risk: The possibility of suering a loss in the event of an attack on the system
+**Risk:** The possibility of suering a loss in the event of an attack on the system
 
-Rogue Access Point (AP) Attack: An access point that is installed on the network without the
+**Rogue Access Point (AP) Attack:** An access point that is installed on the network without the
 network administrator's knowledge
 
-Rootkit: A collection of soware or tools that an admin would use
+**Rootkit:** A collection of soware or tools that an admin would use
 
-Screen lock: A security feature that helps prevent unwanted access by creating an action you have to
+**Screen loc**k: A security feature that helps prevent unwanted access by creating an action you have to
 do to gain entry
 
-Session hijacking (cookie hijacking): A common meddler in the middle aack
+**Session hijacking (cookie hijacking)**: A common meddler in the middle aack
 
-Social engineering: An attack method that relies heavily on interactions with humans instead of
+**Social engineering:** An attack method that relies heavily on interactions with humans instead of
 computers
 
-Spear phishing: Phishing that targets individual or group - the fake emails may contain some personal
+**Spear phishing:** Phishing that targets individual or group - the fake emails may contain some personal
 information like your name, or the names of friends or family
 
 **Spoong:** When a source is masquerading around as something else
