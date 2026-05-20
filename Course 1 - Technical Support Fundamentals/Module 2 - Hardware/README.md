@@ -85,39 +85,39 @@ where anything that was changed or created with that app is stored
 
 **Charge cycle:** One full charge and discharge of a battery
 
-AWS Cloud Practitioner Certification It decides how components talk to each other on our machine
+**Chipset:** It decides how components talk to each other on our machine
 
-Clock cycle: When you send a voltage to the clock wire
+**Clock cycle:** When you send a voltage to the clock wire
 
-Clock speed: The maximum number of clock cycles that it can handle in a set in a certain time period
+**Clock speed:** The maximum number of clock cycles that it can handle in a set in a certain time period
 
-Clock wire: When you send or receive data, it sends a voltage to that clock wire to let the CPU know it
+**Clock wire:** When you send or receive data, it sends a voltage to that clock wire to let the CPU know it
 can start doing calculations
 
-CPU: Central processing unit
+**CPU:** Central processing unit
 
-CPU sockets: A CPU socket is a series of pins that connect a CPU’s processor to the PC’s
+**CPU sockets:** A CPU socket is a series of pins that connect a CPU’s processor to the PC’s
 motherboard
 
-Data sizes: Metrics that refer to data sizes including bit, byte, kilobyte, kibibyte, and megabyte
+**Data sizes:** Metrics that refer to data sizes including bit, byte, kilobyte, kibibyte, and megabyte
 
-DDR SDRAM (Double Data Rate SDRAM): A type of RAM that is faster, takes up less power, and has
+**DDR SDRAM (Double Data Rate SDRAM)**: A type of RAM that is faster, takes up less power, and has
 a larger capacity than earlier SDRAM versions
 
-Desktop: The main screen where we can navigate our files, folders, and applications
+**Desktop:** The main screen where we can navigate our files, folders, and applications
 
-DIMM: Dual Inline Memory Module
+**DIMM:** Dual Inline Memory Module
 
-Display port: Port which also outputs audio and video
+**Display port:** Port which also outputs audio and video
 
-DRAM: Dynamic Random Access Memory
+**DRAM:** Dynamic Random Access Memory
 
-Drivers: The drivers contain the instructions our CPU needs to understand external devices like
+**Drivers**: The drivers contain the instructions our CPU needs to understand external devices like
 keyboards, webcams, printers
 
-DVI: DVI cables generally just output video
+**DVI:** DVI cables generally just output video
 
-Electrostatic discharge: Electrostatic discharge is a sudden and momentary flow of electric current
+**Electrostatic discharge**: Electrostatic discharge is a sudden and momentary flow of electric current
 between two electrically charged objects caused by contact, an electrical short or dielectric
 breakdown
 
