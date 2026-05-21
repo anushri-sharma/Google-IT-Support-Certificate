@@ -10,15 +10,15 @@ In the third week of this course, we'll learn about package and software managem
 
 ------
 
-App Store apps: A Package Manager that acts as a repository
+**App Store apps**: A Package Manager that acts as a repository
 
-App store repository: A app store service that also acts as a repository
+**App store repository**: A app store service that also acts as a repository
 
-App stores: A central managed marketplace for app developers to publish and sell mobile apps
+**App stores:** A central managed marketplace for app developers to publish and sell mobile apps
 
-APPX: An APPX is another way to package contents of a le to act like a unit of distribution
+**APPX**: An APPX is another way to package contents of a le to act like a unit of distribution
 
-Archive: An archive is comprised of one or more les that are compressed into a single le" for verb
+**Archive:** An archive is comprised of one or more les that are compressed into a single le" for verb
 agreement
 
 Block devices: A system that acts like USB drives and hard drive by transmiing data
