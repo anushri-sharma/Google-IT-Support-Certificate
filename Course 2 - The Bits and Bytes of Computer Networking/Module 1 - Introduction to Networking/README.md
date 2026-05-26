@@ -102,55 +102,55 @@ fiber cables use **pulses of light** to represent the zeros and one of the data 
 -----
 
 
-Bit: The smallest representation of data that a computer can understand
+**Bit:** The smallest representation of data that a computer can understand
 
-Border Gateway Protocol (BGP): A protocol by which routers share data with each other
+**Border Gateway Protocol (BGP):** A protocol by which routers share data with each other
 
-Broadcast: A type of Ethernet transmission, sent to every single device on a LAN
+**Broadcast:** A type of Ethernet transmission, sent to every single device on a LAN
 
-Broadcast address: A special destination used by an Ethernet broadcast composed by all Fs
+**Broadcast address:** A special destination used by an Ethernet broadcast composed by all Fs
 
-Cable categories: Groups of cables that are made with the same material. Most network cables used
+**Cable categories**: Groups of cables that are made with the same material. Most network cables used
 today can be split into two categories, copper and ber
 
-Cables: Insulated wires that connect dierent devices to each other allowing data to be transmied
+**Cables:** Insulated wires that connect dierent devices to each other allowing data to be transmied
 over them
 
-Carrier-Sense Multiple Access with Collision Detection (CSMA/CD): CSMA/CD is used to
+**Carrier-Sense Multiple Access with Collision Detection (CSMA/CD):** CSMA/CD is used to
 determine when the communications channels are clear and when the device is free to transmit data
 
-Client: A device that receives data from a server
+**Client:** A device that receives data from a server
 
-Collision domain: A network segment where only one device can communicate at a time
+**Collision domain:** A network segment where only one device can communicate at a time
 
-Computer networking: The full scope of how computers communicate with each other
+**Computer networking:** The full scope of how computers communicate with each other
 
-Copper cable categories : These categories have dierent physical characteristics like the number of
+**Copper cable categories:** These categories have dierent physical characteristics like the number of
 twists in the pair of copper wires. These are dened as names like category (or cat) 5, 5e, or 6, and
 how quickly data can be sent across them and how resistant they are to outside interference are all
 related to the way the twisted pairs inside are arranged
 
-Crosstalk: Crosstalk is when an electrical pulse on one wire is accidentally detected on another wire
+**Crosstalk:** Crosstalk is when an electrical pulse on one wire is accidentally detected on another wire
 
-Cyclical Redundancy Check (CRC): A mathematical transformation that uses polynomial division to
+**Cyclical Redundancy Check (CRC):** A mathematical transformation that uses polynomial division to
 create a number that represents a larger set of data. It is an important concept for data integrity and is
 used all over computing, not just network transmissions
 
-Data packet: An all-encompassing term that represents any single set of binary data being sent
+**Data packet:** An all-encompassing term that represents any single set of binary data being sent
 across a network link
 
-Datalink layer: The layer in which the rst protocols are introduced. This layer is responsible for
+**Datalink layer:** The layer in which the rst protocols are introduced. This layer is responsible for
 dening a common way of interpreting signals, so network devices can communicate
 
-Destination MAC address: The hardware address of the intended recipient that immediately follows
+**Destination MAC address:** The hardware address of the intended recipient that immediately follows
 the start frame delimiter
 
-Duplex communication: A form of communication where information can ow in both directions
+**Duplex communication:** A form of communication where information can ow in both directions
 across a cable
 
-Ethernet: The protocol most widely used to send data across individual links
+**Ethernet:** The protocol most widely used to send data across individual links
 
-Ethernet frame: A highly structured collection of information presented in a specic order
+**Ethernet frame:** A highly structured collection of information presented in a specic order
 
 EtherType eld: It follows the Source MAC Address in a dataframe. It's 16 bits long and used to
 describe the protocol of the contents of the frame
@@ -231,37 +231,37 @@ two sections
 Protocol: A dened set of standards that computers must follow in order to communicate properly is
 called a protocol
 
-Router: A device that knows how to forward data between independent networks
+**Router:** A device that knows how to forward data between independent networks
 
-Server: A device that provides data to another device that is requesting that data, also known as a
+**Server:** A device that provides data to another device that is requesting that data, also known as a
 client
 
-Simplex communication: A form of data communication that only goes in one direction across a
+**Simplex communication:** A form of data communication that only goes in one direction across a
 cable
 
-Source MAC address: The hardware address of the device that sent the ethernet frame or data
+**Source MAC address:** The hardware address of the device that sent the ethernet frame or data
 packet. In the data packet it follows the destination MAC address
 
-Start Frame Delimiter (SFD): The last byte in the preamble, that signals to a receiving device that the
+**Start Frame Delimiter (SFD):** The last byte in the preamble, that signals to a receiving device that the
 preamble is over and that the actual frame contents will now follow
 
-Transmission Control Protocol (TCP): The data transfer protocol most commonly used in the fourth
+**Transmission Control Protocol (TCP):** The data transfer protocol most commonly used in the fourth
 layer. This protocol requires an established connection between the client and server
 
-Transport layer: The network layer that sorts out which client and server programs are supposed to
+**Transport layer:** The network layer that sorts out which client and server programs are supposed to
 get the data
 
-Twisted pair cable: The most common type of cabling used for connecting computing devices. It
+**Twisted pair cable:** The most common type of cabling used for connecting computing devices. It
 features pairs of copper wires that are twisted together
 
-Unicast transmission: A unicast transmission is always meant for just one receiving address
+**Unicast transmission:** A unicast transmission is always meant for just one receiving address
 
-User Datagram Protocol (UDP): A transfer protocol that does not rely on connections. This protocol
+**User Datagram Protocol (UDP):** A transfer protocol that does not rely on connections. This protocol
 does not support the concept of an acknowledgement. With UDP, you just set a destination port and
 send the data packet
 
-Virtual LAN (VLAN): It is a technique that lets you have multiple logical LANs operating on the same
+**Virtual LAN (VLAN):** It is a technique that lets you have multiple logical LANs operating on the same
 physical equipment
 
-VLAN header: A piece of data that indicates what the frame itself is. In a data packet it is followed by
+**VLAN header:** A piece of data that indicates what the frame itself is. In a data packet it is followed by
 the EtherType
