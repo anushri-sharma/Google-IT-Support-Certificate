@@ -14,7 +14,7 @@ In the fifth week of this course, we'll explore process management. As an IT Sup
 
 **Client/Server runtime subsystem**: System that handles running Windows GUI and Command line
 
-Environment: Whatever seings or variables a child process inherits from the parent’s process
+**Environment**: Whatever seings or variables a child process inherits from the parent’s process
 
 Multilingual user interface: Interface that oers and support dierent languages
 
