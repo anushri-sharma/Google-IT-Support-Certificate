@@ -27,7 +27,7 @@ look at running processes
 
 **Programs**: The applications that we can run
 
-Resource monitoring: The most common way to quickly take a peek at how system resources are
+**Resource monitoring:** The most common way to quickly take a peek at how system resources are
 doing
 
 Session manager subsystem: Process that is in charge of seing some stu up to work for the OS
