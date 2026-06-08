@@ -18,7 +18,7 @@ In the fifth week of this course, we'll explore process management. As an IT Sup
 
 **Multilingual user interface**: Interface that oers and support dierent languages
 
-Processes: Help the computer run programs
+**Processes:** Help the computer run programs
 
 **Process Explorer:** A utility Microso created to let IT support specialists and system administrators
 look at running processes
