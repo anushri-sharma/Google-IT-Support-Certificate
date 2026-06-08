@@ -34,7 +34,7 @@ doing
 
 **Signal**: A way to tell a process that something has just happened
 
-Suspended apps: A command that will tell the OS to suspend background mobile apps
+**Suspended apps**: A command that will tell the OS to suspend background mobile apps
 
 Task Manager: A Windows utility that allows you to gain information about what tasks you have
 running in the background
