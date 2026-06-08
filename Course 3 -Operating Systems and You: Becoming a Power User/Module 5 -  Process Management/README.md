@@ -23,7 +23,7 @@ In the fifth week of this course, we'll explore process management. As an IT Sup
 **Process Explorer:** A utility Microso created to let IT support specialists and system administrators
 look at running processes
 
-Process ID: Unique identier for processes on your computer
+**Process ID:** Unique identier for processes on your computer
 
 Programs: The applications that we can run
 
