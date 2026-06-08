@@ -20,7 +20,7 @@ Multilingual user interface: Interface that oers and support dierent languages
 
 Processes: Help the computer run programs
 
-Process Explorer: A utility Microso created to let IT support specialists and system administrators
+**Process Explorer:** A utility Microso created to let IT support specialists and system administrators
 look at running processes
 
 Process ID: Unique identier for processes on your computer
