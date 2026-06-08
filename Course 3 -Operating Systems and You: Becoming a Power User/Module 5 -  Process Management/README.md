@@ -30,7 +30,7 @@ look at running processes
 **Resource monitoring:** The most common way to quickly take a peek at how system resources are
 doing
 
-Session manager subsystem: Process that is in charge of seing some stu up to work for the OS
+**Session manager subsystem**: Process that is in charge of seing some stu up to work for the OS
 
 Signal: A way to tell a process that something has just happened
 
