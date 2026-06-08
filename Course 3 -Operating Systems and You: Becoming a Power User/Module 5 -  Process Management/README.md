@@ -25,7 +25,7 @@ look at running processes
 
 **Process ID:** Unique identier for processes on your computer
 
-Programs: The applications that we can run
+**Programs**: The applications that we can run
 
 Resource monitoring: The most common way to quickly take a peek at how system resources are
 doing
