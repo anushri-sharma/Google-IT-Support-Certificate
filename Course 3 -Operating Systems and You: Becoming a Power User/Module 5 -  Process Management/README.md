@@ -12,7 +12,7 @@ In the fifth week of this course, we'll explore process management. As an IT Sup
 
 **Background processes/Daemon processes**: Processes that run or take place in the background
 
-Client/Server runtime subsystem: System that handles running Windows GUI and Command line
+**Client/Server runtime subsystem**: System that handles running Windows GUI and Command line
 
 Environment: Whatever seings or variables a child process inherits from the parent’s process
 
