@@ -36,7 +36,7 @@ doing
 
 **Suspended apps**: A command that will tell the OS to suspend background mobile apps
 
-Task Manager: A Windows utility that allows you to gain information about what tasks you have
+**Task Manager:** A Windows utility that allows you to gain information about what tasks you have
 running in the background
 
 Termination signal: A kill command that will stop whatever process you tell it to
