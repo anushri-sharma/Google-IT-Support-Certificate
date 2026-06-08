@@ -16,7 +16,7 @@ In the fifth week of this course, we'll explore process management. As an IT Sup
 
 **Environment**: Whatever seings or variables a child process inherits from the parent’s process
 
-Multilingual user interface: Interface that oers and support dierent languages
+**Multilingual user interface**: Interface that oers and support dierent languages
 
 Processes: Help the computer run programs
 
