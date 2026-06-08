@@ -32,7 +32,7 @@ doing
 
 **Session manager subsystem**: Process that is in charge of seing some stu up to work for the OS
 
-Signal: A way to tell a process that something has just happened
+**Signal**: A way to tell a process that something has just happened
 
 Suspended apps: A command that will tell the OS to suspend background mobile apps
 
