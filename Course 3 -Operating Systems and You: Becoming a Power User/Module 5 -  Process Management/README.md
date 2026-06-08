@@ -10,7 +10,7 @@ In the fifth week of this course, we'll explore process management. As an IT Sup
 
 ------
 
-Background processes/Daemon processes: Processes that run or take place in the background
+**Background processes/Daemon processes**: Processes that run or take place in the background
 
 Client/Server runtime subsystem: System that handles running Windows GUI and Command line
 
