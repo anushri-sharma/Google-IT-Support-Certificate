@@ -33,13 +33,13 @@ teams, including IT support specialists, going through simulations of disaster e
 
 File compression: The les and folder structures are copied and put into an archive
 
-Full backup: The full unmodied contents of all les to be backed up is are included in this backup
+**Full backup**: The full unmodied contents of all les to be backed up is are included in this backup
 mechanism whether the data was modied or not
 
 NAS device: A network aached storage device that has hard drives to automatically create backups
 and store data
 
-Preventative measures: Any procedures or systems in place that will proactively minimize the impact
+**Preventative measures**: Any procedures or systems in place that will proactively minimize the impact
 of a disaster
 
 Post mortem: A way for you to document any problems you discovered along the when recovering
