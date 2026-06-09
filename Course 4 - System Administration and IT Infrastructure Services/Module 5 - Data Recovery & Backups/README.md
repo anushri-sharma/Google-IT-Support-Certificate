@@ -51,8 +51,8 @@ combining them into one large virtual disk
 **Restoration procedures**: A recovery process and process needs to be tested regularly that is
 documented and accessible so that anyone with the right access can restore operation when needed
 
-Risk assessment: Allows you to prioritize certain aspects of the organization that are more at risk if
+**Risk assessment:** Allows you to prioritize certain aspects of the organization that are more at risk if
 there’s an unforeseen event
 
-Single point of failure: When one part of a system fails and causes the whole system to stop working
+**Single point of failure**: When one part of a system fails and causes the whole system to stop working
 Terms and their denitions from previous modules
