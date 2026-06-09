@@ -22,13 +22,13 @@ loss or corruption
 **Detection measure**: The measures to alert you and your team that a disaster has occurred that can
 impact operations
 
-Dierential backup: A backup of les that are changed, or has been created since the last full
+**Dierential backup**: A backup of les that are changed, or has been created since the last full
 backup
 
-Disaster recovery plan: A collection of documented procedures and plans on how to react and
+**Disaster recovery plan**: A collection of documented procedures and plans on how to react and
 handle an emergency or disaster scenario, from the operational perspective
 
-Disaster recovery testing: A regular exercise that happens once a year or so, that has dierent
+**Disaster recovery testing:** A regular exercise that happens once a year or so, that has dierent
 teams, including IT support specialists, going through simulations of disaster events
 
 **File compression**: The les and folder structures are copied and put into an archive
