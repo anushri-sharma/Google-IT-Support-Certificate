@@ -17,7 +17,7 @@ based version where les are backed up to a zip archive
 **Data recovery**: Is the process of trying to restore data aer an unexpected event that results in data
 loss or corruption
 
-Data tapes: The standard medium for archival backup data storage
+**Data tapes**: The standard medium for archival backup data storage
 
 Detection measure: The measures to alert you and your team that a disaster has occurred that can
 impact operations
