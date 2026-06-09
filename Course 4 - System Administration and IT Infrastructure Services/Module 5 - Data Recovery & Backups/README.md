@@ -45,7 +45,7 @@ of a disaster
 **Post mortem**: A way for you to document any problems you discovered along the when recovering
 data, and the ways you xed them so you can make sure they don't happen again
 
-RAID (redundant array of independent disks): A method of taking multiple physical disks and
+**RAID (redundant array of independent disks):** A method of taking multiple physical disks and
 combining them into one large virtual disk
 
 Restoration procedures: A recovery process and process needs to be tested regularly that is
