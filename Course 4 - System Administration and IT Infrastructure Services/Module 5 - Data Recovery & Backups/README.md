@@ -42,7 +42,7 @@ and store data
 **Preventative measures**: Any procedures or systems in place that will proactively minimize the impact
 of a disaster
 
-Post mortem: A way for you to document any problems you discovered along the when recovering
+**Post mortem**: A way for you to document any problems you discovered along the when recovering
 data, and the ways you xed them so you can make sure they don't happen again
 
 RAID (redundant array of independent disks): A method of taking multiple physical disks and
