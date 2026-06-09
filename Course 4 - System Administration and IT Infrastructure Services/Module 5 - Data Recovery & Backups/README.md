@@ -19,7 +19,7 @@ loss or corruption
 
 **Data tapes**: The standard medium for archival backup data storage
 
-Detection measure: The measures to alert you and your team that a disaster has occurred that can
+**Detection measure**: The measures to alert you and your team that a disaster has occurred that can
 impact operations
 
 Dierential backup: A backup of les that are changed, or has been created since the last full
