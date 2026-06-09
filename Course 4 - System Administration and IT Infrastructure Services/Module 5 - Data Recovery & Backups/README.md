@@ -11,7 +11,7 @@ In the fifth week of this course, we'll learn about data recovery and backups. I
 * Understand the purpose and contents of a disaster recovery plan
 
 -----
-Backup and restore: A Microso oer and rst party solution that has modes of operation, as a le
+**Backup and restore**: A Microso oer and rst party solution that has modes of operation, as a le
 based version where les are backed up to a zip archive
 
 Data recovery: Is the process of trying to restore data aer an unexpected event that results in data
