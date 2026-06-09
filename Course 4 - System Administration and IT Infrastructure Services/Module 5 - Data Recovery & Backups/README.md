@@ -31,12 +31,12 @@ handle an emergency or disaster scenario, from the operational perspective
 Disaster recovery testing: A regular exercise that happens once a year or so, that has dierent
 teams, including IT support specialists, going through simulations of disaster events
 
-File compression: The les and folder structures are copied and put into an archive
+**File compression**: The les and folder structures are copied and put into an archive
 
 **Full backup**: The full unmodied contents of all les to be backed up is are included in this backup
 mechanism whether the data was modied or not
 
-NAS device: A network aached storage device that has hard drives to automatically create backups
+**NAS device**: A network aached storage device that has hard drives to automatically create backups
 and store data
 
 **Preventative measures**: Any procedures or systems in place that will proactively minimize the impact
