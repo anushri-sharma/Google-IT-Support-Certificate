@@ -32,7 +32,7 @@ that you are about to make
 
 Computer conguration: Contained within a Group Policy Object (GPO)
 
-Conguration management: The creation of rules about how things should work in your organization,
+**Conguration management**: The creation of rules about how things should work in your organization,
 such as printers, congure soware, or mounting network le systems
 
 Default domain control policy: One of the two GPOs that are created when a new Active Directory
