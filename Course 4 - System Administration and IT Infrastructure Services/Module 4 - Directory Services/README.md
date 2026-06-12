@@ -44,7 +44,7 @@ but you don't need to have broad access to make changes in AD
 Directory Access Protocol (DAP): A protocol that is included in the X.500 directory standard from
 1988
 
-Directory Information Shadowing Protocol (DISP): A protocol that is included in the X.500 directory
+**Directory Information Shadowing Protocol (DISP)**: A protocol that is included in the X.500 directory
 standard from 1988
 
 Directory Operational Bindings Management Protocol (DOBMP): A protocol that is included in the
