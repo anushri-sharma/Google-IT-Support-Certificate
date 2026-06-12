@@ -13,7 +13,7 @@ In the fourth week of this course, we'll learn about directory services. Specifi
 **AAA (authentication, authorization, accounting)**: The services that the directory services provide
 to all the computers within a company or organization
 
-Active directory (AD): The Microso alternative to directory services that oers customization and
+**Active directory (AD):** The Microso alternative to directory services that oers customization and
 added features for the Windows plaorm
 
 Active directory users and computers (ADUC): The client tools that are used for accessing and
