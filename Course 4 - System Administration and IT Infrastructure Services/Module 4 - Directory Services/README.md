@@ -30,7 +30,7 @@ infrastructure
 Change management process: The process to notify others in the organization about the changes
 that you are about to make
 
-Computer conguration: Contained within a Group Policy Object (GPO)
+**Computer conguration:** Contained within a Group Policy Object (GPO)
 
 **Conguration management**: The creation of rules about how things should work in your organization,
 such as printers, congure soware, or mounting network le systems
