@@ -35,10 +35,10 @@ that you are about to make
 **Conguration management**: The creation of rules about how things should work in your organization,
 such as printers, congure soware, or mounting network le systems
 
-Default domain control policy: One of the two GPOs that are created when a new Active Directory
+**Default domain control policy**: One of the two GPOs that are created when a new Active Directory
 domain has been made
 
-Delegation: The administrative tasks that you need to perform a lot as a part of your day to day job
+**Delegation**: The administrative tasks that you need to perform a lot as a part of your day to day job
 but you don't need to have broad access to make changes in AD
 
 Directory Access Protocol (DAP): A protocol that is included in the X.500 directory standard from
