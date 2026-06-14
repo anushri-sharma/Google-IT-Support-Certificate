@@ -47,7 +47,7 @@ Directory Access Protocol (DAP): A protocol that is included in the X.500 direct
 **Directory Information Shadowing Protocol (DISP)**: A protocol that is included in the X.500 directory
 standard from 1988
 
-Directory Operational Bindings Management Protocol (DOBMP): A protocol that is included in the
+**Directory Operational Bindings Management Protocol (DOBMP)**: A protocol that is included in the
 X.500 directory standard from 1988
 
 Directory server: The server that contains a lookup service that provides mapping between network
