@@ -16,7 +16,7 @@ to all the computers within a company or organization
 **Active directory (AD):** The Microso alternative to directory services that oers customization and
 added features for the Windows plaorm
 
-Active directory users and computers (ADUC): The client tools that are used for accessing and
+**Active directory users and computers (ADUC)**: The client tools that are used for accessing and
 administering a directory server
 
 Advanced group policy management (AGPM): A set of add-on tools from Microso that gives some
