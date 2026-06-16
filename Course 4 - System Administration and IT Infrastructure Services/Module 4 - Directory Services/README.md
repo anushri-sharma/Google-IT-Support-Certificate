@@ -41,7 +41,7 @@ domain has been made
 **Delegation**: The administrative tasks that you need to perform a lot as a part of your day to day job
 but you don't need to have broad access to make changes in AD
 
-Directory Access Protocol (DAP): A protocol that is included in the X.500 directory standard from
+**Directory Access Protocol (DAP)**: A protocol that is included in the X.500 directory standard from
 1988
 
 **Directory Information Shadowing Protocol (DISP)**: A protocol that is included in the X.500 directory
@@ -50,7 +50,7 @@ standard from 1988
 **Directory Operational Bindings Management Protocol (DOBMP)**: A protocol that is included in the
 X.500 directory standard from 1988
 
-Directory server: The server that contains a lookup service that provides mapping between network
+**Directory server**: The server that contains a lookup service that provides mapping between network
 resources and their network addresses
 
 Directory services: A lookup service contained in a network server that provides mapping between
