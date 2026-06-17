@@ -60,7 +60,7 @@ Channels: Individual, smaller sections of the overall frequency band used by a w
 
 Collision domain: A network segment where only one device can communicate at a time
 
-Data payload section: Has all of the data of the protocols further up the stack of a frame
+**Data payload section**: Has all of the data of the protocols further up the stack of a frame
 
 Dial-up: Uses POTS for data transfer, and gets its name because the connection is established by
 actually dialing a phone number
