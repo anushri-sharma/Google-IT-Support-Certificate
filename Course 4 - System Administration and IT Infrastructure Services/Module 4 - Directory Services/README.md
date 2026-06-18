@@ -19,7 +19,7 @@ added features for the Windows plaorm
 **Active directory users and computers (ADUC)**: The client tools that are used for accessing and
 administering a directory server
 
-Advanced group policy management (AGPM): A set of add-on tools from Microso that gives some
+**Advanced group policy management (AGPM)**: A set of add-on tools from Microso that gives some
 added provision control abilities in GPMC
 
 Bind operation: The operation which authenticates clients to the directory server
