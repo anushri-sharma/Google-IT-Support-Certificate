@@ -1,4 +1,4 @@
-# Intro to computers 
+# [Intro to computers] 
 
 <img width="1164" height="360" alt="image" src="https://github.com/user-attachments/assets/19513169-0fa7-4d99-a6b2-ee6903bd3ea4" />
 
