@@ -34,10 +34,27 @@ occurred when trying to access a web resource
 proprietary technologies on a private cloud or on premise while entrusting their less sensitive servers
 to a public cloud
 
-**Load balancer**: Ensures that each VM receives a balanced number of queries
-Network le system: A protocol that enables les to be shared over a network
+**Load balancer**: A load balancer distributes incoming requests across multiple virtual machines (VMs) so that one VM does not handle all the traffic.
+- A load balancer distributes incoming traffic across multiple servers to improve performance, availability, and reliability.
 
-**Plaorm services:** A plaorm for developers to completely build and deploy soware applications,
+`Example: Imagine 300 users visiting a website. A load balancer distributes their requests across three VMs, helping prevent any one VM from becoming overloaded.`
+
+**Network file system**: A protocol that enables files to be shared over a network
+-Interview answer: “NFS is a network protocol that allows computers to access and share files stored on a remote server.”
+
+`Example: A company stores reports on one Linux server. Other authorized Linux computers can access those reports through an NFS shared directory without keeping separate copies on each computer.`
+
+----
+
+**Quick comparison**
+Concept	- Main purpose
+
+**Load balancer** - Distributes incoming traffic across servers
+
+**NFS** -	Shares and accesses files across computers
+
+----
+**Platform services:** A plaorm for developers to completely build and deploy soware applications,
 without having to deal with OS maintenance, server hardware, networking or other services that are
 needed to use the plaorm tools
 
@@ -48,7 +65,7 @@ on-site or in a remote data center
 
 **Regions:** A geographical location containing a number of data centers
 
-**Soware services:** The services that employees use that allow them to do their daily job functions,
+**Software services:** The services that employees use that allow them to do their daily job functions,
 such as word processors, Internet browsers, email clients, chat clients, and more
 
 **Web server:** A web server stores and serves content to clients through the Internet.
